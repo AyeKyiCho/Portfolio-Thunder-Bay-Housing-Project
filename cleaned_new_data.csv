@@ -1,0 +1,63 @@
+price,address,bedrooms,bathrooms,sqft,intersection
+229900,339 Rupert St,3.0,2.0,759.0,Red River Road & Junot Avenue
+319000,703 Ruskin Cres,3.0,2.0,900.0,Arthur Street & Edward Street
+139900,1319 East Donald St E,2.0,1.0,650.0,Memorial Avenue & John Street
+299800,104 Ray Boulevard,4.0,2.0,1244.0,Red River Road & Junot Avenue
+749900,199 Valley St,5.0,4.0,2502.0,Balmoral Street & Harbour Expressway
+499900,119 Skyline Ave,4.0,2.0,1110.0,Fort William Road & Central Avenue
+389000,3 270 Caribou Cres (Open House),2.0,2.0,1100.0,Arthur Street & Edward Street
+539000,192 Humber Cres,5.0,3.0,1422.0,Red River Road & Junot Avenue
+319900,387 Morse St,3.0,2.0,886.0,Balmoral Street & Harbour Expressway
+349900,1508 Walsh St E,3.0,1.0,1130.0,Memorial Avenue & John Street
+429900,115 200 Oasis Ln,2.0,2.0,1405.0,Red River Road & Junot Avenue
+299900,1730 Rankin St,3.0,2.0,760.0,Fort William Road & Central Avenue
+209900,420 725 James Street S,2.0,1.0,924.0,Arthur Street & Edward Street
+199900,315 Ambrose St,3.0,3.0,1200.0,Balmoral Street & Harbour Expressway
+199900,136 Christina St E,3.0,1.0,892.0,Memorial Avenue & John Street
+239900,1144 Crawford Ave,2.0,1.0,610.0,Red River Road & Junot Avenue
+599900,2505 Rosslyn Rd,4.0,4.0,2655.0,Fort William Road & Central Avenue
+289000,332 Ogden,2.0,1.0,650.0,Arthur Street & Edward Street
+299900,1414 Ridgeway St E,4.0,2.0,1488.0,Balmoral Street & Harbour Expressway
+369900,55 Secord St,5.0,3.0,1658.0,Memorial Avenue & John Street
+499900,424 Gemstone Dr,4.0,2.0,928.0,Red River Road & Junot Avenue
+199900,308 1703 Victoria Ave E,1.0,1.0,667.0,Fort William Road & Central Avenue
+669900,48 Surprise Lake Rd W,3.0,2.0,1488.0,Arthur Street & Edward Street
+275000,548 Red River Rd,2.0,1.0,765.0,Balmoral Street & Harbour Expressway
+209900,34 Simcoe St,2.0,2.0,840.0,Memorial Avenue & John Street
+249900,159 Inglewood Cres,3.0,1.0,955.0,Red River Road & Junot Avenue
+549900,276 Valley St,4.0,3.0,1380.0,Fort William Road & Central Avenue
+259900,910 Alberta St,2.0,1.0,1000.0,Arthur Street & Edward Street
+269900,544 Cumberland St N.,4.0,2.0,800.0,Balmoral Street & Harbour Expressway
+199900,425 Wiley St,3.0,1.0,1165.0,Memorial Avenue & John Street
+549900,149 Bentwood Dr,4.0,2.0,1050.0,Red River Road & Junot Avenue
+599900,259 Carl Ave,5.0,3.0,1300.0,Fort William Road & Central Avenue
+355000,109 147 Fanshaw St,2.0,1.0,1140.0,Arthur Street & Edward Street
+299900,232 Egan St,3.0,2.0,1000.0,Balmoral Street & Harbour Expressway
+449900,89 Hill St,2.0,1.0,1000.0,Memorial Avenue & John Street
+279900,20 Hanley Street,3.0,1.0,1096.0,Red River Road & Junot Avenue
+399900,67 Regent St,4.0,2.0,1620.0,Fort William Road & Central Avenue
+299900,934 Alexandra St,2.0,1.0,830.0,Arthur Street & Edward Street
+259000,254 McIntyre St,2.0,1.0,750.0,Balmoral Street & Harbour Expressway
+449900,152 Cougar Cres,4.0,3.0,1291.0,Memorial Avenue & John Street
+255000,295 Frederica St E,5.0,3.0,1111.0,Red River Road & Junot Avenue
+849100,2101 2260 Sleeping Giant Pkwy,2.0,2.0,1467.0,Fort William Road & Central Avenue
+229900,"401 725 James St S, 725 James St S #401",2.0,1.0,783.0,Arthur Street & Edward Street
+384000,308 300 Vista Ln,2.0,2.0,932.0,Balmoral Street & Harbour Expressway
+339900,334 Francis St E,3.0,2.0,935.0,Memorial Avenue & John Street
+819900,503 Longbow Cres,5.0,3.0,1750.0,Red River Road & Junot Avenue
+699900,520 Tuscany Ct.,4.0,3.0,1575.0,Fort William Road & Central Avenue
+675000,3968 Hwy 11/17,2.0,1.0,936.0,Arthur Street & Edward Street
+264900,513 145 Fanshaw St,2.0,1.0,900.0,Balmoral Street & Harbour Expressway
+1199900,144 High St,4.0,3.0,3355.0,Memorial Avenue & John Street
+360000,360 Arundel St,3.0,1.0,1200.0,Red River Road & Junot Avenue
+479900,486 St. Patrick's Sq,4.0,2.0,3100.0,Fort William Road & Central Avenue
+1395000,114 Richmond St,5.0,7.0,4942.0,Arthur Street & Edward Street
+549900,417 Parkway Dr,4.0,4.0,1800.0,Balmoral Street & Harbour Expressway
+439900,2129 Arthur St E,3.0,2.0,1650.0,Memorial Avenue & John Street
+469900,305 Wolseley St,2.0,2.0,1086.0,Red River Road & Junot Avenue
+325000,165 Market St,2.0,1.0,940.0,Fort William Road & Central Avenue
+1250000,338 Catherine St,7.0,4.0,4293.0,Arthur Street & Edward Street
+669900,435 Muskrat Dr,5.0,3.0,1477.0,Balmoral Street & Harbour Expressway
+669000,497 Muskrat Dr,5.0,3.0,1452.0,Memorial Avenue & John Street
+375000,450 Vickers St N,5.0,3.0,1667.0,Red River Road & Junot Avenue
+314900,315 145 Fanshaw St,2.0,1.0,1145.0,Fort William Road & Central Avenue

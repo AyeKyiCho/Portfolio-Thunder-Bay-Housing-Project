@@ -1,0 +1,93 @@
+price,address,bedrooms,bathrooms,sqft
+229900,339 Rupert St,3.0,2.0,759.0
+319000,703 Ruskin Cres,3.0,2.0,900.0
+139900,1319 East Donald St E,2.0,1.0,650.0
+299800,104 Ray Boulevard,4.0,2.0,1244.0
+749900,199 Valley St,5.0,4.0,2502.0
+499900,119 Skyline Ave,4.0,2.0,1110.0
+389000,3 270 Caribou Cres (Open House),2.0,2.0,1100.0
+539000,192 Humber Cres,5.0,3.0,1422.0
+319900,387 Morse St,3.0,2.0,886.0
+349900,1508 Walsh St E,3.0,1.0,1130.0
+429900,115 200 Oasis Ln,2.0,2.0,1405.0
+299900,1730 Rankin St,3.0,2.0,760.0
+209900,420 725 James Street S,2.0,1.0,924.0
+199900,315 Ambrose St,3.0,3.0,1200.0
+199900,136 Christina St E,3.0,1.0,892.0
+239900,1144 Crawford Ave,2.0,1.0,610.0
+599900,2505 Rosslyn Rd,4.0,4.0,2655.0
+289000,332 Ogden,2.0,1.0,650.0
+299900,1414 Ridgeway St E,4.0,2.0,1488.0
+369900,55 Secord St,5.0,3.0,1658.0
+499900,424 Gemstone Dr,4.0,2.0,928.0
+199900,308 1703 Victoria Ave E,1.0,1.0,667.0
+669900,48 Surprise Lake Rd W,3.0,2.0,1488.0
+275000,548 Red River Rd,2.0,1.0,765.0
+209900,34 Simcoe St,2.0,2.0,840.0
+249900,159 Inglewood Cres,3.0,1.0,955.0
+549900,276 Valley St,4.0,3.0,1380.0
+259900,910 Alberta St,2.0,1.0,1000.0
+269900,544 Cumberland St N.,4.0,2.0,800.0
+199900,425 Wiley St,3.0,1.0,1165.0
+549900,149 Bentwood Dr,4.0,2.0,1050.0
+599900,259 Carl Ave,5.0,3.0,1300.0
+355000,109 147 Fanshaw St,2.0,1.0,1140.0
+16,202 920 Tungsten St (For Lease),,,1000.0
+299900,232 Egan St,3.0,2.0,1000.0
+449900,89 Hill St,2.0,1.0,1000.0
+279900,20 Hanley Street,3.0,1.0,1096.0
+800,2817 B Arthur St (For Rent),,,500.0
+399900,67 Regent St,4.0,2.0,1620.0
+299900,934 Alexandra St,2.0,1.0,830.0
+259000,254 McIntyre St,2.0,1.0,750.0
+449900,152 Cougar Cres,4.0,3.0,1291.0
+255000,295 Frederica St E,5.0,3.0,1111.0
+849100,2101 2260 Sleeping Giant Pkwy,2.0,2.0,1467.0
+229900,"401 725 James St S, 725 James St S #401",2.0,1.0,783.0
+384000,308 300 Vista Ln,2.0,2.0,932.0
+16,1001 William St (For Lease),,,2400.0
+339900,334 Francis St E,3.0,2.0,935.0
+15,101/104 325 Archibald St S (For Lease),,,8746.0
+819900,503 Longbow Cres,5.0,3.0,1750.0
+699900,520 Tuscany Ct.,4.0,3.0,1575.0
+675000,3968 Hwy 11/17,2.0,1.0,936.0
+264900,513 145 Fanshaw St,2.0,1.0,900.0
+3500,Main Floor 238 Red River Road (For Rent),,,1480.0
+1199900,144 High St,4.0,3.0,3355.0
+360000,360 Arundel St,3.0,1.0,1200.0
+479900,486 St. Patrick's Sq,4.0,2.0,3100.0
+1600000,700 Norah Cres,,,6400.0
+899999,8 Wideman Dr,,,2400.0
+1395000,114 Richmond St,5.0,7.0,4942.0
+549900,417 Parkway Dr,4.0,4.0,1800.0
+950000,513 Victoria Ave E,,,7500.0
+10,513 Victoria Ave E (Lease),,,7000.0
+439900,2129 Arthur St E,3.0,2.0,1650.0
+469900,305 Wolseley St,2.0,2.0,1086.0
+325000,165 Market St,2.0,1.0,940.0
+545000,327 Cumberland St N,,,3800.0
+330000,335 Cumberland St N,,,2400.0
+649900,200 Rowand St,,,2720.0
+524900,541 Luci Court,,,1800.0
+1250000,338 Catherine St,7.0,4.0,4293.0
+669900,435 Muskrat Dr,5.0,3.0,1477.0
+669000,497 Muskrat Dr,5.0,3.0,1452.0
+1750000,376 Lisgar Street,,,4100.0
+22,271 Bay St,,,2760.0
+2600,12 Cumberland St,,,1200.0
+375000,450 Vickers St N,5.0,3.0,1667.0
+325000,321 Cumberland St N,,,1600.0
+550000,782-784 Moore Ave,,,984.0
+1129000,860 Red River Rd,,,3840.0
+13,1 665 Beaverhall Place,,,4552.0
+17,195 Park Ave S,,,6000.0
+609000,700 Franklin Street,,,1372.0
+1799900,1100 Memorial Ave,,,6800.0
+19,204 1139 Alloy Dr,,,1156.0
+19,224 1139 Alloy Dr,,,1743.0
+12,103 920 Tungsten St,,,1100.0
+499000,2212 Sleeping Giant Parkway,,,6062.0
+299000,135 Algoma St,,,670.0
+2000,201 278 Bay St,,,1200.0
+314900,315 145 Fanshaw St,2.0,1.0,1145.0
+2800,Upstairs 238 Red River Rd,,,1480.0
